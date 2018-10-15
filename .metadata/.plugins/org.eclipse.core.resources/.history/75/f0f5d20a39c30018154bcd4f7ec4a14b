@@ -1,0 +1,9 @@
+package com.e3mall.pagehelper;
+
+public class PageHelperTest {
+	
+	public static void main(String[] args) throws Exception{
+		
+	}
+
+}

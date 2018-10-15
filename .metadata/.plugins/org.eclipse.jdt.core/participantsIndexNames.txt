@@ -1,0 +1,7 @@
+INDEX VERSION 1.130
+E:\e3mall-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2534539276.index
+\e3mall-manager-web\src\main\java
+E:\e3mall-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2873065920.index
+\e3mall-manager-service\src\main\java
+E:\e3mall-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3539921342.index
+\e3mall-manager-web\src\main\java
